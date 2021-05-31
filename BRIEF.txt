@@ -1,0 +1,10 @@
+FUNCTIONALITY:
+*Simbrief profile made from data points
+  *Bot should collect data upon client command
+  *Ideally turn to profile, but not necessary
+  
+*!data <arg>
+*input to edi-glar.org.uk
+*Get first plan
+*Paste using regex
+EXAMPLE: https://www.edi-gla.co.uk/flightplan/286465?operation=view-source
