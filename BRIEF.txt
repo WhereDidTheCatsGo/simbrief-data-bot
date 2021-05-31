@@ -8,3 +8,5 @@ FUNCTIONALITY:
 *Get first plan
 *Paste using regex
 EXAMPLE: https://www.edi-gla.co.uk/flightplan/286465?operation=view-source
+
+REGEX FIND from -ADES to </div>
