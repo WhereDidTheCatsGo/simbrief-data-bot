@@ -10,3 +10,4 @@ FUNCTIONALITY:
 EXAMPLE: https://www.edi-gla.co.uk/flightplan/286465?operation=view-source
 
 REGEX FIND from -ADES to </div>
+Remove <br>s
